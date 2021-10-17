@@ -1,4 +1,4 @@
-# Goldman-Analysis
+# Goldman Sachs Challenge
 
 The project is trying to find how environment influences the stock market, whether the CO2 emission value will influence the close stock price? Or will the scope of the company in correpsonding industry will influence the stock price? 
 
