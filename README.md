@@ -6,5 +6,5 @@ We are using the two Data Sources for the challenge from the Snowflake Data Mark
 
 We also met some challenge such as dealing with the missing value, find the metrics to see how industry related to the enviroment indicator and how to select suitbale regression models to do the prediction. 
 
-Link to presentation on YouTube: https://www.youtube.com/watch?v=AvkcdUzW_4g&t=12s
+Link to presentation on YouTube: https://www.youtube.com/watch?v=AvkcdUzW_4g&t=12s        
 Link to the overview on Devpost: https://devpost.com/software/goldman-sachs-challenge-piof9q?ref_content=my-projects-tab&ref_feature=my_projects
